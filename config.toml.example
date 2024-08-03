@@ -1,0 +1,4 @@
+[api]
+username = "meteomatics-username"
+password = "meteomatics-password"
+coordinates = "51.050407,13.737262" # Dresden
